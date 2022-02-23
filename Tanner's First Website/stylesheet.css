@@ -1,0 +1,49 @@
+body {
+    background-color: grey;   
+}
+
+h1{text-align: center;
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+    border-bottom-color: yellow
+}
+
+
+img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+
+#header {
+    background-color: yellow;  
+}
+
+
+#list {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 15px;
+    margin-left: 35%;
+}
+
+
+#navlinks {
+    position: fixed;
+}
+
+#bruh {
+    text-align: center;
+    border-bottom-width: 100px;
+    border-bottom-color: yellow;
+    background-color: yellow;
+    }
